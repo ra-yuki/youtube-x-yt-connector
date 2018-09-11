@@ -1,0 +1,15 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+li {
+    font-size: 10px;
+}
+
+.dropdown-bg-color{
+    background-color: #282828;
+}
+
+.dropdown-title {
+    color: #fff;
+}
